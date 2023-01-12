@@ -7,7 +7,7 @@
     "email": "zackmckenna@gmail.com",
     "phone": "(908) 698-1556",
     "url": "http://zackmckenna.com",
-    "summary": "Zack hails from Philadelphia. He has a background as a Sound/Projection Designer and Engineer in the theater industry, and enjoys rock climbing, biking and boardgames.",
+    "summary": "Zack hails from Philadelphia. He has a background as a Sound/Projection Designer and Engineer in the theater industry, and enjoys rock climbing, biking and board games.",
     "location": {
       "city": "Philadelphia",
       "countryCode": "US",
@@ -39,10 +39,10 @@
       "position": "Software Engineer 2",
       "url": "https://corporate.comcast.com/",
       "startDate": "2021-03-01",
-      "summary": "Build and create applications to help engineers manage Comcast's network infrastructure.",
+      "summary": "Buildr and creater applications to help engineers manage Comcast's network infrastructure.",
       "highlights": [
-        "Built a serverless application that runs tests on all modems in Comcast's network to determine Docsis 3.1 capabilities and identify potential network interference",
-        "Built an automation tool/API to automate the process of generating infrastructure in Sunbird DCIM",
+        "Built a serverless application that runs tests on all modems in Comcast's network to determine Docsis 3.1 capabilities and identify potential network interference.",
+        "Built an automation tool/API to automate the process of generating infrastructure in Sunbird DCIM.",
         "Created robust integration tests to run daily and ensure iHat was running as intended."
       ]
     },
@@ -56,7 +56,7 @@
       "endDate": "2022-03-01",
       "summary": "Worked on a digital document input overlay engine in order to allow digital data input for PDF documents.",
       "highlights": [
-        "Built out the interface for users to overlay html inputs over pre existing PDF documents.",
+        "Built out the interface for users to overlay html inputs over pre-existing PDF documents.",
         "Required complex x/y positioning and scaling code to ensure that inputs scaled correctly with document when windows were resized.",
         "Handled complicated application state in Vue to keep track of a large amount of inputs and input conditions."
       ]
@@ -69,10 +69,10 @@
       "url": "https://www.zeroprojects.ca/",
       "startDate": "2020-09-12",
       "endDate": "2021-01-01",
-      "summary": "Developed an api for a client in order to consolidate, store and organize social media data for clients",
+      "summary": "Developed an API for a client in order to consolidate, store and organize social media data for clients.",
       "highlights": [
-        "Created a workflow to pull data from twitter, facebook and instagam API's, cache/organize it, and present it to the frontend developer.",
-        "Generated data points and analytics from the data, like correlating page views and likes with frequency of posts."
+        "Created a workflow to pull data from Twitter, Facebook and Instagam API's, cache/organize it, and present it to the frontend developer.",
+        "Generated data points and analytics from the data, such as correlating page views and likes with frequency of posts."
       ]
     },
      {
@@ -85,7 +85,7 @@
       "endDate": "2021-01-01",
       "summary": "Worked on the frontend React client. Focused on optimizing load and rendering times. Converted designs from UX/UI engineer to code.",
       "highlights": [
-        "optimized and fixed issues related to misuse of React hooks and rendering lifecycle.",
+        "Optimized and fixed issues related to misuse of React hooks and rendering lifecycle.",
         "Handled tickets related to React client.",
         "Converted website from a slow Wordpress site to a speedy Gatsby site delivered via CDN using Netlify. So fast!"
       ]
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "name": "Boardgames",
+      "name": "Board Games",
       "keywords": [
         "Deckbuilders",
         "Social Deduction"
