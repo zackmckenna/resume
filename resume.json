@@ -1,0 +1,211 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Zachary McKenna",
+    "label": "Software Engineer",
+    "image": "https://media.licdn.com/dms/image/C4D03AQHv7oeYfIXjcQ/profile-displayphoto-shrink_800_800/0/1605635408992?e=1678924800&v=beta&t=ZzV9qrrRGAtaAiQS3c5c3C9qG8T-3CZoy4ktV6UUMCA",
+    "email": "zackmckenna@gmail.com",
+    "phone": "(908) 698-1556",
+    "url": "http://zackmckenna.com",
+    "summary": "Zack hails from Philadelphia. He has a background as a Sound/Projection Designer and Engineer in the theater industry, and enjoys rock climbing, biking and boardgames.",
+    "location": {
+      "city": "Philadelphia",
+      "countryCode": "US",
+      "region": "Pennsylvania"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Zack McKenna",
+        "url": "https://www.linkedin.com/in/zack-mckenna-77912678/"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "zmckenna",
+        "url": "https://soundcloud.com/zmckenna"
+      },
+       {
+        "network": "Github",
+        "username": "zackmckenna",
+        "url": "https://github.com/zackmckenna"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Comcast",
+      "location": "Philadelphia, PA",
+      "description": "Comcast Corporation is a global media and technology company with two primary businesses: Comcast Cable and NBCUniversal. Comcast Cable is one of the United States' largest video, high-speed Internet, and phone providers to residential customers under the XFINITY brand, and also provides these services to businesses.",
+      "position": "Software Engineer 2",
+      "url": "https://corporate.comcast.com/",
+      "startDate": "2021-03-01",
+      "summary": "Build and create applications to help engineers manage Comcast's network infrastructure.",
+      "highlights": [
+        "Built a serverless application that runs tests on all modems in Comcast's network to determine Docsis 3.1 capabilities and identify potential network interference",
+        "Built an automation tool/API to automate the process of generating infrastructure in Sunbird DCIM",
+        "Created robust integration tests to run daily and ensure iHat was running as intended."
+      ]
+    },
+     {
+      "name": "Prosoft Clinical",
+      "location": "Chesterbrook, PA",
+      "description": "Prosoft Clinical is a full service contract research organization available to design, conduct, analyze, and report your clinical study.",
+      "position": "Frontend Developer",
+      "url": "https://prosoftclinical.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-03-01",
+      "summary": "Worked on a digital document input overlay engine in order to allow digital data input for PDF documents.",
+      "highlights": [
+        "Built out the interface for users to overlay html inputs over pre existing PDF documents.",
+        "Required complex x/y positioning and scaling code to ensure that inputs scaled correctly with document when windows were resized.",
+        "Handled complicated application state in Vue to keep track of a large amount of inputs and input conditions."
+      ]
+    },
+     {
+      "name": "Zero Projects",
+      "location": "Toronto, Canada",
+      "description": "Software Development Firm",
+      "position": "Software Developer",
+      "url": "https://www.zeroprojects.ca/",
+      "startDate": "2020-09-12",
+      "endDate": "2021-01-01",
+      "summary": "Developed an api for a client in order to consolidate, store and organize social media data for clients",
+      "highlights": [
+        "Created a workflow to pull data from twitter, facebook and instagam API's, cache/organize it, and present it to the frontend developer.",
+        "Generated data points and analytics from the data, like correlating page views and likes with frequency of posts."
+      ]
+    },
+     {
+      "name": "Urality",
+      "location": "Philadelphia, PA",
+      "description": "Urality is a content management and delivery platform tailored to communities and downtowns that integrates rich media with location-based tagging, personalization filtering, and media collaboration with attribution.",
+      "position": "Frontend Developer",
+      "url": "https://www.urality.com/",
+      "startDate": "2020-11-02",
+      "endDate": "2021-01-01",
+      "summary": "Worked on the frontend React client. Focused on optimizing load and rendering times. Converted designs from UX/UI engineer to code.",
+      "highlights": [
+        "optimized and fixed issues related to misuse of React hooks and rendering lifecycle.",
+        "Handled tickets related to React client.",
+        "Converted website from a slow Wordpress site to a speedy Gatsby site delivered via CDN using Netlify. So fast!"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Arcadia Univesity",
+      "url": "https://www.arcadia.edu/",
+      "area": "Communications/Philosophy",
+      "studyType": "Bachelor",
+      "startDate": "2009-09-18",
+      "endDate": "2013-06-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "KCACTF National Award In Sound Design",
+      "date": "2013-06-14",
+      "awarder": "KCACTF",
+      "summary": "Award for sound design and music compositon for Alive!"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Simplifying Step Functions",
+      "publisher": "SST",
+      "releaseDate": "2022-06-17",
+      "url": "https://youtu.be/6FzLjpMYcu8?t=4342",
+      "summary": "Simplifying AWS Step Functions using SST and AWS CDK"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Node Application Development",
+      "level": "Awesome",
+      "keywords": [
+        "Node.js",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Great",
+      "keywords": [
+        "React",
+        "HTML",
+        "CSS"
+      ]
+    },
+     {
+      "name": "AWS Services",
+      "level": "Awesome",
+      "keywords": [
+        "AWS",
+        "Serverless",
+        "CDK"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Rock Climbing",
+      "keywords": [
+        "Sport",
+        "Bouldering"
+      ]
+    },
+    {
+      "name": "Boardgames",
+      "keywords": [
+        "Deckbuilders",
+        "Social Deduction"
+      ]
+    },
+    {
+      "name": "Video Games",
+      "keywords": [
+        "Overwatch",
+        "Slay the Spire",
+        "Satisfactory"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "iHat",
+      "description": "The In Home Assesment Test",
+      "highlights": [
+        "Handled jobs for all modems connected to the Comcast network",
+        "Scaled from small batches of jobs in development to hundreds of thousands in production within a year.",
+        "Built using AWS serverless services for scalability, speed and costs efficiency"
+      ],
+      "keywords": [
+        "AWS",
+        "Application Development",
+        "Node.js",
+        "Step Functions"
+      ],
+      "startDate": "2022-06-24",
+      "endDate": "2022-11-24",
+      "roles": [
+        "Team lead",
+        "Developer",
+        "Top Contributor"
+      ],
+      "entity": "Comcast",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00",
+    "theme":"elegant"
+  }
+}

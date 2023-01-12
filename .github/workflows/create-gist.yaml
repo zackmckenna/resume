@@ -1,0 +1,9 @@
+- uses: actions/checkout@v3
+- name: Deploy Resume Gist
+  uses: exuanbo/actions-deploy-gist@v1
+  with:
+    token: ${{ secrets.TOKEN }}
+    gist_id: 1245e5ad3fd46aab94507fe03366b16d
+    file_path: ./resume.json
+    file_type: text
+    gist_description: "Zack McKenna's JSON resume"
