@@ -22,9 +22,9 @@ jobs:
   hello_world_job:
     runs-on: ubuntu-20.04
     steps:
+      - uses: actions/checkout@v2
       - name: update-gist
-        - uses: actions/checkout@v2
-        - uses: exuanbo/actions-deploy-gist@v1
+        uses: exuanbo/actions-deploy-gist@v1
           with:
             token: ${{ secrets.GITHUB_TOKEN}}
             gist_id: 1245e5ad3fd46aab94507fe03366b16d
