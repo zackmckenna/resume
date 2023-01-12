@@ -23,7 +23,7 @@ jobs:
     steps:
       - name: get-directory
         uses: actions/checkout@v2
-        run: ls -a
+        # run: ls -a
       - name: update-gist
         uses: exuanbo/actions-deploy-gist@v1
         with:
